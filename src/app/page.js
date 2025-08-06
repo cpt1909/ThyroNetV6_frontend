@@ -309,6 +309,8 @@ export default function Home() {
       <div className="footer">
         <hr/>
         <p>Not really a frontend guy, so don't mind the UI</p>
+        <p>The server is down due to lack of funds to deploy. Just a nice way of saying "It doesn't work right now".</p>
+        <p>You can try running it on your local machine.</p>
       </div>
     </div>
   );
